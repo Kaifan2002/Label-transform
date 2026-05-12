@@ -5,7 +5,7 @@ import shutil
 # ====================== 配置区 ======================
 
 DATASET_ROOT = r"/disk527/Commondisk/a804_qkf/vscodeproject/Objectdetection/sam3-main/LQC_output"
-OUTPUT_ROOT = r"/disk527/Commondisk/a804_qkf/vscodeproject/data/LQC_sam_yolo_split"
+OUTPUT_ROOT = r"/disk527/Commondisk/a804_qkf/vscodeproject/data/object_detection/LQC_sam_yolo_split"
 
 IMG_DIR = os.path.join(DATASET_ROOT, "images")
 LABEL_DIR = os.path.join(DATASET_ROOT, "labels")

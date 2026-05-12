@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 COCO_A = r"/disk527/Commondisk/a804_qkf/vscodeproject/data/object_detection/change5_coco"
 COCO_B = r"/disk527/Commondisk/a804_qkf/vscodeproject/data/object_detection/MDCD_COCO2017"
-OUT_COCO = r"/disk527/Commondisk/a804_qkf/vscodeproject/data/object_detection/crater_source_coo"
+OUT_COCO = r"/disk527/Commondisk/a804_qkf/vscodeproject/data/object_detection/crater_source_united_coo"
 
 # 是否复制图像（True）或使用硬链接（False，省空间，Windows 不推荐）
 COPY_IMAGES = True
